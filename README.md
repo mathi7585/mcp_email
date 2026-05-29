@@ -72,7 +72,6 @@ Please review our [CONTRIBUTING.md](CONTRIBUTING.md) for more guidelines.
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
 > **Questions or Feedback?**  
 > Please open an issue or submit a pull request!  
 > Thank you for using **mcp_emailsender**.
