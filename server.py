@@ -19,7 +19,6 @@ logger = logging.getLogger("gmail-mcp")
 mcp = FastMCP("Gmail MCP Server")
 
 SCOPES = ["https://www.googleapis.com/auth/gmail.modify"]
-
 def get_gmail_service():
     creds = None
     try:
