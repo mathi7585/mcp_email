@@ -7,7 +7,6 @@
 ## 🚀 Introduction
 
 **mcp_emailsender** simplifies the process of sending emails from your applications using Python. Built on top of the MCP framework, it supports plain text, HTML, and attachments, making it an ideal choice for notification systems, automated reports, and more.
-
 ---
 ## ✨ Features
 
